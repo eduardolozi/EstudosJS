@@ -1,0 +1,28 @@
+.jogador {
+  margin: 5px 0 5px 5px;
+  padding: 5px;
+  text-align: center;
+  border: medium solid gray;
+  display: block;
+  width: 300px;
+  border-radius: 5px;
+}
+
+.jogador:hover {
+  border-color: red;
+}
+
+.jog1 {
+  background-color: gainsboro;
+}
+
+.jog2 {
+  background-color: rgb(52, 50, 50);
+  color: gainsboro;
+}
+
+.destaque {
+  background-color: rgb(157, 53, 53);
+  border-color: white;
+  color: white;
+}
