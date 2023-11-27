@@ -1,0 +1,11 @@
+.sucesso {
+  color: green;
+}
+
+.falha {
+  color: red;
+}
+
+.numero {
+  font-size: larger;
+}
