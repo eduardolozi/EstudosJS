@@ -28,7 +28,7 @@ const criaCurso = (nome) => {
   return novoElemento;
 };
 
-cursos.map((elemento, chave) => {
+cursos.map((elemento) => {
   const novoElemento = criaCurso(elemento);
   caixa_cursos.appendChild(novoElemento);
   indice++;
